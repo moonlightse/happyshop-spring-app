@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/happ-shop/happ-shop.iml" filepath="$PROJECT_DIR$/happ-shop/happ-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/happy-shop/happy-shop.iml" filepath="$PROJECT_DIR$/happy-shop/happy-shop.iml" />
     </modules>
   </component>
 </project>

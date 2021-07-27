@@ -11,7 +11,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="happ-shop" />
+          <element id="module-output" name="happy-shop" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:2.5.3" />
@@ -88,9 +88,9 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/happ-shop/target/happ-shop-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/happy-shop/target/happ-shop-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="happ-shop/web/Web" />
+      <element id="javaee-facet-resources" facet="happy-shop/web/Web" />
     </root>
   </artifact>
 </component>
